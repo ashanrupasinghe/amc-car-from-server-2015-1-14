@@ -1,0 +1,112 @@
+/*
+================================================================================
+|                                FONTS CODES                                   |
+================================================================================
+*/
+ 
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: "icons";
+    font-style: normal;
+    font-weight: normal;
+    speak: none; 
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+}
+ /*
+.icon-code:before { content: '\e819'; }
+.icon-calendar:before { content: '\e806'; }
+.icon-phone:before { content: '\e803'; }
+.icon-arrow:before { content: '\e81d'; }
+.icon-foursquare:before { content: '\e80a'; }
+.icon-vkontakte:before { content: '\e809'; }
+.icon-youtube:before { content: '\e813'; }
+.icon-list:before { content: '\e821'; }
+.icon-cancel:before { content: '\e824'; }
+.icon-chat:before { content: '\e80c'; }
+.icon-up:before { content: '\e81c'; }
+.icon-up-dir:before { content: '\e822'; }
+.icon-mobile:before { content: '\e812'; }
+.icon-github:before { content: '\e817'; }
+.icon-vimeo:before { content: '\e814'; }
+.icon-twitter:before { content: '\e81f'; }
+.icon-facebook:before { content: '\e807'; }
+.icon-gplus:before { content: '\e80d'; }
+.icon-pinterest:before { content: '\e810'; }
+.icon-print:before { content: '\e825'; }
+.icon-dribbble:before { content: '\e815'; }
+.icon-instagram:before { content: '\e80f'; }
+.icon-skype:before { content: '\e80e'; }
+.icon-link:before { content: '\e81e'; }
+.icon-user:before { content: '\e805'; }
+.icon-comment:before { content: '\e81a'; }
+.icon-forrst:before { content: '\e816'; }
+.icon-email:before { content: '\e801'; }
+.icon-deviantart:before { content: '\e818'; }
+.icon-search:before { content: '\e802'; }
+.icon-mail:before { content: '\e811'; }
+.icon-grid:before { content: '\e820'; }
+.icon-cancel-circled2:before { content: '\e823'; }
+.icon-tag:before { content: '\e804'; }
+.icon-marker:before { content: '\e800'; }
+.icon-reply:before { content: '\e81b'; }
+.icon-reddit:before { content: '\e80b'; }
+.icon-linkedin:before { content: '\e808'; } 
+.icon-youtube-play:before { content: '\e82a'; }
+*/
+
+.icon-code:before { content: '\e819'; }
+.icon-calendar:before { content: '\e806'; }
+.icon-phone:before { content: '\e803'; }
+.icon-arrow:before { content: '\e81d'; }
+.icon-award:before { content: '\e82d'; }
+.icon-columns:before { content: '\e829'; }
+.icon-foursquare:before { content: '\e80a'; }
+.icon-vkontakte:before { content: '\e809'; }
+.icon-youtube:before { content: '\e813'; }
+.icon-youtube-play:before { content: '\e82a'; }
+.icon-list:before { content: '\e821'; }
+.icon-cancel:before { content: '\e824'; }
+.icon-chat:before { content: '\e80c'; }
+.icon-up:before { content: '\e81c'; }
+.icon-up-dir:before { content: '\e822'; }
+.icon-mobile:before { content: '\e812'; }
+.icon-github:before { content: '\e817'; }
+.icon-vimeo:before { content: '\e814'; }
+.icon-twitter:before { content: '\e81f'; }
+.icon-facebook:before { content: '\e807'; }
+.icon-gplus:before { content: '\e80d'; }
+.icon-pinterest:before { content: '\e810'; }
+.icon-linkedin:before { content: '\e808'; } 
+.icon-dribbble:before { content: '\e815'; }
+.icon-print:before { content: '\e825'; }
+.icon-skype:before { content: '\e80e'; }
+.icon-link:before { content: '\e81e'; }
+.icon-move:before { content: '\e827'; }
+.icon-article:before { content: '\e826'; }
+.icon-award-empty:before { content: '\e82f'; }
+.icon-award-1:before { content: '\e82e'; }
+.icon-user:before { content: '\e805'; }
+.icon-menu:before { content: '\e828'; }
+.icon-comment:before { content: '\e81a'; }
+.icon-forrst:before { content: '\e816'; }
+.icon-email:before { content: '\e801'; }
+.icon-deviantart:before { content: '\e818'; }
+.icon-search:before { content: '\e802'; }
+.icon-mail:before { content: '\e811'; }
+.icon-star:before { content: '\e82c'; }
+.icon-star-circled:before { content: '\e82b'; }
+.icon-grid:before { content: '\e820'; }
+.icon-cancel-circled2:before { content: '\e823'; }
+.icon-tag:before { content: '\e804'; }
+.icon-marker:before { content: '\e800'; }
+.icon-reply:before { content: '\e81b'; }
+.icon-certificate:before { content: '\e830'; }
+.icon-reddit:before { content: '\e80b'; }
+.icon-instagram:before { content: '\e80f'; }

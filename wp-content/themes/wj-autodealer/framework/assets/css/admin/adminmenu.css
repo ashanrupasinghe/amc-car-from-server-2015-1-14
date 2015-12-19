@@ -1,0 +1,40 @@
+/*#adminmenu #toplevel_page_at_theme_options div.wp-menu-image,
+#adminmenu #toplevel_page_at_site_options div.wp-menu-image,
+#adminmenu #toplevel_page_at_reference div.wp-menu-image,
+#adminmenu #toplevel_page_at_users div.wp-menu-image,
+#adminmenu #menu-posts-news div.wp-menu-image,
+#adminmenu #menu-posts-reviews div.wp-menu-image{
+	opacity: 0.6;
+}
+#adminmenu #toplevel_page_at_theme_options:hover div.wp-menu-image,
+#adminmenu #toplevel_page_at_theme_options.wp-has-current-submenu div.wp-menu-image,
+#adminmenu #toplevel_page_at_site_options:hover div.wp-menu-image,
+#adminmenu #toplevel_page_at_site_options.wp-has-current-submenu div.wp-menu-image,
+#adminmenu #toplevel_page_at_reference:hover div.wp-menu-image,
+#adminmenu #toplevel_page_at_reference.wp-has-current-submenu div.wp-menu-image,
+#adminmenu #toplevel_page_at_users:hover div.wp-menu-image,
+#adminmenu #toplevel_page_at_users.wp-has-current-submenu div.wp-menu-image,
+#adminmenu #menu-posts-news:hover div.wp-menu-image,
+#adminmenu #menu-posts-news.wp-has-current-submenu div.wp-menu-image,
+#adminmenu #menu-posts-reviews:hover div.wp-menu-image,
+#adminmenu #menu-posts-reviews.wp-has-current-submenu div.wp-menu-image{
+	opacity: 1;
+}
+#adminmenu #toplevel_page_at_theme_options div.wp-menu-image{
+    background: url( '../../images/admin/custom_pages_icons/24x24/theme_options.png' ) 7px 4px no-repeat;
+}
+#adminmenu #toplevel_page_at_site_options div.wp-menu-image{
+    background: url( '../../images/admin/custom_pages_icons/24x24/site_options.png' ) 7px 4px no-repeat;
+}
+#adminmenu #toplevel_page_at_reference div.wp-menu-image{
+    background: url( '../../images/admin/custom_pages_icons/24x24/reference.png' ) 7px 4px no-repeat;
+}
+#adminmenu #toplevel_page_at_users div.wp-menu-image{
+    background: url( '../../images/admin/custom_pages_icons/24x24/users.png' ) 7px 4px no-repeat;
+}
+#adminmenu #menu-posts-news div.wp-menu-image{
+    background: url( '../../images/admin/custom_pages_icons/24x24/news.png' ) 7px 4px no-repeat;
+}
+#adminmenu #menu-posts-reviews div.wp-menu-image{
+    background: url( '../../images/admin/custom_pages_icons/24x24/reviews.png' ) 7px 4px no-repeat;
+}*/

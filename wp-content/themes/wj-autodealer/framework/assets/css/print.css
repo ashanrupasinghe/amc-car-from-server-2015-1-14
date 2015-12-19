@@ -1,0 +1,26 @@
+@media print {
+	div#header, div#footer, div.breadcrumbs, div.recent_cars, div.car_sidebar, div.wanted_line, div#wpadminbar,
+	a.print { 
+		display: none!important; 
+	}
+	#content{
+		background: none!important;
+	}
+	.info_box{
+		float:none!important;
+		width:auto!important;
+		padding-right: 0!important;
+	}
+	.car_info .info_left{
+		width: 450px!important;
+	}
+	.car_info .info_right{
+		width: 450px!important;
+	}
+	.car_contacts .left{
+		width: 450px!important;
+	}
+	.car_contacts .right{
+		width: 450px!important;
+	}
+}

@@ -1,0 +1,65 @@
+/**
+ * Skill Meter and Charts Frontend
+ * 
+ * @package startup
+ */
+
+.at-skill-meter {
+  margin-bottom: 15px;
+}
+.at-skill-meter .at-skill-meter-title { width: 70%; clear: left; }
+.at-skill-meter .at-skill-meter-total { width: 30%; text-align: right; clear: right; }
+
+.at-skill-meter .at-skill-meter-title,
+.at-skill-meter .at-skill-meter-total
+ {
+  float: left;
+  margin-bottom: 6px;
+  font-weight: 100;
+  display: block;
+  height: 15px;
+  line-height: 14px;
+}
+.at-skill-meter .at-progress-bar.xs {
+  height: 1px;
+  border-radius: 0;
+}
+.at-skill-meter-title.md {
+  border-top: 1px transparent solid;  
+  border-bottom: 1px transparent solid;  
+}
+.at-progress-bar.md {
+  border-top: 1px transparent solid;
+  border-right: 1px transparent solid;
+  border-bottom: 1px transparent solid;
+}
+.at-skill-meter .at-progress-bar {
+  background-color: #dcdcdc;
+  background-color: rgba(0, 0, 0, 0.12);
+  position: relative;
+  height: 14px;
+  display: block;
+}
+.at-skill-meter .at-progress-bar .progress-outer {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.at-skill-meter .at-progress-bar .progress-inner {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+  overflow: hidden;
+  z-index: 1;
+}
+.progress-outer,
+.progress-inner,
+.at-progress-bar {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}

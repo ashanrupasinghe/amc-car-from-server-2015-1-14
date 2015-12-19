@@ -1,0 +1,4551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Dealer WP Theme\n"
+"POT-Creation-Date: 2014-12-22 13:08+0200\n"
+"PO-Revision-Date: 2014-12-22 13:08+0200\n"
+"Last-Translator: JD <jd@irishmiss.com>\n"
+"Language-Team: Winter Juice Limited\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:9
+msgid "Please do not load this page directly."
+msgstr ""
+
+#: ../comments.php:13
+msgid "Password Protected"
+msgstr ""
+
+#: ../comments.php:15
+msgid "Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:21
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:38
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search on site"
+msgstr ""
+
+#: ../searchform.php:4
+#: ../framework/application/libraries/js_composer/search_auto.php:278
+#: ../framework/application/views/blocks/catalog/filters.php:210
+msgid "Search"
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:25
+#: ../framework/application/controllers/auth.php:29
+msgid "Email & Password incorrect!"
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:32
+msgid "Your account was blocked!"
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:113
+msgid "Hash not found!"
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:129
+#: ../framework/application/controllers/settings.php:179
+msgid "The password was changed."
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:162
+msgid "Email not found!"
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:171
+#: ../framework/application/controllers/auth.php:214
+#: ../framework/application/controllers/catalog.php:258
+#: ../framework/application/controllers/settings.php:364
+msgid "Error send email! Try later."
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:174
+#: ../framework/application/controllers/auth.php:216
+msgid "Message was sent!"
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:225
+msgid "Сode is not valid."
+msgstr ""
+
+#: ../framework/application/controllers/auth.php:229
+msgid "Сode is valid!"
+msgstr ""
+
+#: ../framework/application/controllers/car.php:78
+#: ../framework/application/controllers/dealer.php:73
+msgid "Catalog"
+msgstr ""
+
+#: ../framework/application/controllers/catalog.php:87
+#: ../framework/application/controllers/admin/site_options.php:193
+msgid "Publish date"
+msgstr ""
+
+#: ../framework/application/controllers/catalog.php:260
+msgid "The offer was sent."
+msgstr ""
+
+#: ../framework/application/controllers/merchant_paypal.php:69
+#: ../framework/application/controllers/merchant_paypal.php:220
+msgid "for "
+msgstr ""
+
+#: ../framework/application/controllers/news.php:17
+#: ../framework/application/controllers/news.php:29
+#: ../framework/application/controllers/news.php:38
+#: ../framework/application/core/posttypes.php:101
+#: ../framework/application/widgets/header_widget.php:45
+msgid "News"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:40
+#, php-format
+msgid "Category Archive for: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:44
+#, php-format
+msgid "All Posts Tagged Tag: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:46
+#, php-format
+msgid "Daily Archive for: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:49
+#, php-format
+msgid "Monthly Archive for: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:52
+#, php-format
+msgid "Yearly Archive for: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:56
+#, php-format
+msgid "Author Archive for: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/post.php:59
+#, php-format
+msgid "Archives for: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/reviews.php:17
+#: ../framework/application/controllers/reviews.php:29
+#: ../framework/application/controllers/reviews.php:38
+msgid "Rewiews"
+msgstr ""
+
+#: ../framework/application/controllers/search.php:11
+#, php-format
+msgid "Search: %1$s"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:45
+#: ../framework/application/controllers/settings.php:224
+#: ../framework/application/controllers/settings.php:323
+msgid "The changes was saved."
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:62
+#: ../framework/application/controllers/settings.php:242
+#: ../framework/application/controllers/settings.php:340
+#: ../framework/application/controllers/vehicles.php:119
+#: ../framework/application/controllers/vehicles.php:181
+msgid "Account"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:63
+#: ../framework/application/models/menu_model.php:15
+msgid "Profile"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:164
+msgid "Values incorrect!"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:170
+msgid "Old password incorrect!"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:243
+msgid "Dealer affiliates"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:265
+msgid "The affiliate was deleted."
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:272
+msgid "The affiliate was changed."
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:341
+#: ../framework/application/models/menu_model.php:21
+msgid "Transactions"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:354
+msgid "Comment is empty!"
+msgstr ""
+
+#: ../framework/application/controllers/settings.php:367
+msgid "The request was sent."
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:31
+#: ../framework/application/controllers/vehicles.php:79
+#: ../framework/application/controllers/vehicles.php:134
+#: ../framework/application/controllers/vehicles.php:153
+msgid "Error!"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:39
+msgid "Car was archived!"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:53
+#: ../framework/application/controllers/vehicles.php:149
+msgid "Publish limit!"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:58
+#: ../framework/application/views/blocks/vehicles/list.php:66
+msgid "Remove best offer"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:62
+#: ../framework/application/views/blocks/vehicles/list.php:64
+msgid "Add best offer"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:69
+#: ../framework/application/views/blocks/vehicles/list.php:34
+#: ../framework/application/views/blocks/vehicles/list.php:51
+msgid "Promote to top"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:75
+#: ../framework/application/views/blocks/vehicles/list.php:48
+msgid "Promote to featured"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:120
+#: ../framework/application/models/menu_model.php:12
+msgid "My cars"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:147
+msgid "Car was published!"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:182
+msgid "My cars archived"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:257
+msgid "My Vehicles"
+msgstr ""
+
+#: ../framework/application/controllers/vehicles.php:259
+#: ../framework/application/core/posttypes.php:32
+#: ../framework/application/core/posttypes.php:34
+msgid "Add Car"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:24
+#: ../framework/application/controllers/admin/site_options.php:24
+#: ../framework/application/controllers/admin/theme_options.php:21
+msgid "Options Saved"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:50
+msgid "Enable merchant (BETA)"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:51
+msgid ""
+"This option will allow you use PayPal and other paid featured. Currently "
+"this option is in BETA-MODE."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:58
+msgid "Enable paid ads promote"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:59
+msgid "Promoted ads will shown ads on top with different color."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:74
+msgid "Ads promotion:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:75
+msgid "Available plans for paid ads"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:76
+msgid "Add a plan"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:84
+#: ../framework/application/controllers/admin/merchant.php:269
+#: ../framework/application/controllers/admin/site_options.php:728
+#: ../framework/application/libraries/widgets/contact.php:129
+msgid "Name:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:85
+msgid "Enter plan name (eg: 1 Month Subscriptions)"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:91
+msgid "Period:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:92
+msgid "Period in days."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:98
+msgid "Period Label:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:99
+msgid "Enter label for period. This label will shown right side from a price."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:105
+msgid "Rate:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:106
+msgid "Enter rate for this period"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:120
+msgid "Merchant / General Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:129
+msgid "PayPal state:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:130
+msgid "You may switch paypal state to support payment gateway."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:133
+#: ../framework/application/controllers/admin/merchant.php:239
+msgid "Disabled"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:134
+msgid "Express Checkout"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:143
+msgid "API Username:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:150
+msgid "Currency Code:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:157
+msgid "API Password:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:164
+msgid "API Signature:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:171
+msgid "API Version:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:178
+msgid "PayPal Mode:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:179
+msgid "You may switch paypal mode between test (sandbox) and production."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:182
+msgid "Sandbox"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:183
+#: ../framework/application/controllers/admin/site_options.php:104
+msgid "Production"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:199
+msgid "Return URL:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:206
+msgid "Cancel URL:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:213
+msgid "Success text:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:214
+msgid ""
+"This message will be displayed on successful transaction. Available values: "
+"%transaction_id%"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:220
+msgid "Fail text:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:221
+msgid ""
+"This message will be displayed on transaction error. Available values: "
+"%paypal_reason%"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:226
+msgid "Merchant / PayPal Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:235
+msgid "Gateway state:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:236
+msgid "You may switch gateway state."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:240
+msgid "Enabled"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:247
+msgid "Gateway:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:248
+msgid "Available gateways"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:249
+msgid "Add gateway"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:270
+msgid "Enter gateway name to identify (eg: Discovery or Visa)"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:276
+msgid "Local callback route:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:277
+msgid ""
+"Enter callback route will be used by remote server to respond order status."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:283
+msgid "Remote merchanr URL:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:284
+msgid "Enter merchant/bank URL (HTTPS)"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:290
+msgid "Verification model:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:291
+msgid "Please specify the way of user credentils validation."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:294
+msgid ""
+"Internal - user will stay on your website. All all requests will be sent "
+"from your server via internal CURL library."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:295
+msgid "External - user will be redirected to third-party merchant."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:303
+msgid "Access Token:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:310
+msgid "Access Secret:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:317
+msgid "State field:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:318
+msgid "Enter custom status response field."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:324
+msgid "Success code:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:325
+msgid "Enter success status code."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:331
+msgid "Fail code:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:332
+msgid "Enter fail status code."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:338
+msgid "Use SSL"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:339
+msgid "Override SSL."
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:345
+msgid "Gateway Library:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:346
+msgid ""
+"You may specify location to gateway library on this server. E.g.: /vendors/"
+"firstcenturybank/lib.php"
+msgstr ""
+
+#: ../framework/application/controllers/admin/merchant.php:363
+msgid "Merchant / Custom Gateway"
+msgstr ""
+
+#: ../framework/application/controllers/admin/reference.php:177
+msgid "Item was deleted."
+msgstr ""
+
+#: ../framework/application/controllers/admin/reference.php:307
+msgid "Item has been saved."
+msgstr ""
+
+#: ../framework/application/controllers/admin/reference.php:366
+msgid "Sort has been saved."
+msgstr ""
+
+#: ../framework/application/controllers/admin/reference.php:473
+msgid "Item was added."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:42
+msgid "Site type"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:43
+msgid ""
+"You may specify your site type - sole trader, or multiple dealers "
+"(partnership mode). In sole trader mode you may only add your own cars, but "
+"in partnership mode you may add dealers and they will have permission to add "
+"their own vehicles, and office locations, btw in this mode you may also add "
+"your products from your frontend account."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:55
+#: ../framework/application/controllers/admin/site_options.php:91
+#: ../framework/application/core/admin.php:200
+msgid "General Site Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:64
+msgid "Singular product name:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:71
+msgid "Plural product name:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:78
+msgid "Add item label"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:85
+msgid "My items label"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:100
+msgid "Site status:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:101
+msgid "You may change site status from production to underconstruction."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:105
+msgid "Underconstruction"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:112
+msgid "Underconstruction text:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:119
+msgid "Date & Time Retry After (SEO):"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:120
+msgid "Underconstruction: search engine date and time retry after rule."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:128
+msgid "Sender email:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:129
+msgid "Used to handle sender-from email."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:135
+msgid "Sender name:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:136
+msgid "Used to handle sender-from name."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:141
+#: ../framework/application/core/admin.php:202
+msgid "Maintenance Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:151
+msgid "Catalog layout:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:152
+msgid "You may specify custom catalog layout."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:163
+msgid "Catalog car view:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:164
+msgid "Specify defaults for catalog view."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:167
+msgid "List"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:168
+msgid "Grid"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:175
+msgid "Disabled catalog filters:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:182
+msgid "Disable catalog categories:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:189
+msgid "Order Fields:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:190
+msgid "Specify order by fields"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:191
+#: ../framework/application/controllers/admin/site_options.php:241
+#: ../framework/application/core/admin_controller.php:333
+#: ../framework/application/views/blocks/admin/reference/content.php:5
+#: ../framework/application/views/blocks/admin/users/list.php:54
+msgid "Add Item"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:194
+msgid "Price ASC"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:195
+msgid "Price DESC"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:196
+msgid "Name ASC"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:197
+msgid "Name DESC"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:203
+msgid "Title field:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:210
+msgid "Choose field:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:214
+#: ../framework/application/libraries/js_composer/recent_posts.php:88
+msgid "Date"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:215
+#: ../framework/application/core/metabox.php:323
+#: ../framework/application/libraries/js_composer/search_auto.php:134
+msgid "Price"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:216
+#: ../framework/application/views/blocks/admin/reference/equipments.php:10
+#: ../framework/application/views/blocks/admin/reference/form.php:4
+#: ../framework/application/views/blocks/admin/reference/models.php:23
+#: ../framework/application/views/blocks/admin/reference/states.php:23
+#: ../framework/application/views/blocks/admin/reference/three_columns.php:17
+#: ../framework/application/views/blocks/admin/reference/two_columns.php:10
+#: ../framework/application/views/blocks/admin/users/form.php:4
+#: ../framework/application/views/blocks/admin/users/list.php:75
+msgid "Name"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:217
+#: ../framework/application/core/metabox.php:214
+#: ../framework/application/libraries/js_composer/auto_gallery.php:39
+#: ../framework/application/libraries/js_composer/manufacturers.php:9
+#: ../framework/application/libraries/js_composer/recent_cars.php:39
+#: ../framework/application/libraries/js_composer/search_auto.php:93
+#: ../framework/application/models/admin/menu_model.php:12
+msgid "Make"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:224
+msgid "Choose Field:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:228
+msgid "ASC"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:229
+msgid "DESC"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:239
+msgid "Pagination limits:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:240
+msgid "Specify pagination limits for page"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:252
+msgid "Number:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:261
+msgid "Disable top toolbar pagination:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:268
+msgid "Disable bottom pagination:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:275
+msgid "Search Form:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:276
+msgid "You may adjust the display catalog form."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:280
+#: ../framework/application/controllers/admin/site_options.php:332
+msgid "Title Form"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:281
+#: ../framework/application/controllers/admin/site_options.php:333
+#: ../framework/application/core/metabox.php:205
+msgid "Transport type"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:282
+#: ../framework/application/controllers/admin/site_options.php:334
+msgid "Make & Model"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:283
+#: ../framework/application/controllers/admin/site_options.php:335
+msgid "Type Body"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:284
+#: ../framework/application/controllers/admin/site_options.php:336
+#: ../framework/application/core/metabox.php:262
+#: ../framework/application/views/blocks/car/view.php:59
+msgid "Fuel"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:285
+#: ../framework/application/controllers/admin/site_options.php:337
+#: ../framework/application/libraries/js_composer/auto_gallery.php:149
+#: ../framework/application/views/blocks/car/view.php:65
+#: ../framework/application/views/blocks/dealer/info.php:26
+msgid "Engine"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:286
+#: ../framework/application/controllers/admin/site_options.php:338
+#: ../framework/application/views/blocks/car/view.php:71
+msgid "Transmision"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:287
+#: ../framework/application/controllers/admin/site_options.php:339
+#: ../framework/application/views/blocks/catalog/filters.php:82
+msgid "Mileage, "
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:288
+#: ../framework/application/controllers/admin/site_options.php:340
+#: ../framework/application/core/metabox.php:254
+#: ../framework/application/models/admin/menu_model.php:16
+#: ../framework/application/views/blocks/car/view.php:85
+msgid "Doors"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:289
+#: ../framework/application/controllers/admin/site_options.php:341
+msgid "Price, euro"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:290
+#: ../framework/application/controllers/admin/site_options.php:342
+#: ../framework/application/core/metabox.php:370
+#: ../framework/application/libraries/js_composer/search_auto.php:114
+#: ../framework/application/views/blocks/catalog/grid.php:17
+#: ../framework/application/views/blocks/catalog/list.php:24
+#: ../framework/application/views/blocks/dealer/info.php:66
+#: ../framework/application/views/blocks/vehicles/list.php:91
+msgid "Year"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:291
+#: ../framework/application/controllers/admin/site_options.php:343
+#: ../framework/application/core/metabox.php:279
+msgid "Region"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:292
+#: ../framework/application/controllers/admin/site_options.php:344
+msgid "Country & State"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:293
+#: ../framework/application/controllers/admin/site_options.php:345
+#: ../framework/application/core/metabox.php:296
+#: ../framework/application/models/admin/menu_model.php:24
+msgid "Drive"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:294
+#: ../framework/application/controllers/admin/site_options.php:346
+#: ../framework/application/core/metabox.php:304
+#: ../framework/application/views/blocks/car/view.php:77
+msgid "Color"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:296
+#: ../framework/application/controllers/admin/site_options.php:348
+msgid "Submit"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:301
+msgid "Catalog Site Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:310
+#: ../framework/application/controllers/admin/site_options.php:355
+msgid "Search Filters"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:311
+msgid ""
+"This option will help you create custom pattern for your search-filters. You "
+"may continue using your Short Code search filter but you will see additional "
+"option which allow you specify custom filter options. This options is "
+"available since Auto Dealer 1.5 release."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:316
+msgid "Shortcode Search Forms Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:317
+msgid "This options will allow you customize search filter query."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:318
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:326
+msgid "Shortcode Search Form:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:327
+msgid "You may adjust the display search form."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:347
+#: ../framework/application/libraries/js_composer/search_auto.php:274
+msgid "Only new cars"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:372
+msgid "Vehicles limit for users"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:373
+#: ../framework/application/controllers/admin/site_options.php:384
+msgid "0 - unlimit."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:383
+msgid "Vehicles limit for dealers"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:394
+msgid "Image upload limit for users"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:395
+#: ../framework/application/controllers/admin/site_options.php:406
+msgid "Please specify max upload files, 0 - unlimit."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:405
+msgid "Image upload limit for dealers"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:416
+msgid "Show dealer map:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:424
+msgid "Hide offer button:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:432
+msgid "Map height"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:433
+msgid "Please specify map height in pixels."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:443
+msgid "Car mileage:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:447
+#: ../framework/application/helpers/common.php:49
+msgid "Miles"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:448
+#: ../framework/application/helpers/common.php:54
+msgid "Kilometers"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:455
+msgid "Car Transport Types Params"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:461
+msgid "Show Item \"All\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:462
+msgid "Turn on/off item \"All\".\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:469
+msgid "Transport type Icon"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:470
+msgid "Select transport type icon."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:478
+msgid "Default Transport Type"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:479
+msgid "Select default transport type."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:489
+msgid "Car Engine Params"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:495
+msgid "Engine min value"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:496
+msgid "You may specify minimal engine value"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:506
+msgid "Engine max value"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:507
+msgid "You may specify maximal engine value"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:519
+msgid "Transport Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:529
+msgid "Enable Registration"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:530
+msgid ""
+"Turn on/off website front-end registration (only for multiple users in board "
+"mode).\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:536
+msgid "Enable Confirm Email"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:537
+msgid "Turn on/off website front-end confirm email.\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:543
+msgid "Session options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:549
+msgid "Session expiration time"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:550
+msgid "Value in sec. 0 will turn off expiration time."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:556
+msgid "Session update time"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:557
+msgid "Value in sec. Default: 300."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:563
+msgid "Expire On Close"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:570
+msgid "Session match IP"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:571
+msgid "Link IP address for session."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:577
+msgid "Session match useragent"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:578
+msgid "Link session to user browser."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:584
+msgid "Session cookie name"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:591
+msgid "Cookie prefix"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:592
+#: ../framework/application/controllers/admin/site_options.php:606
+msgid "Default empty."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:598
+msgid "Cookie path"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:599
+msgid "Default: /"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:605
+msgid "Cookie domain"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:612
+msgid "Secure cookie"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:613
+msgid "Default: off."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:619
+msgid "Encryption salt key"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:620
+msgid "This key will make stronger password encryption. Replace by your own."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:629
+msgid "Enable submit \"I want to be a dealer\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:630
+msgid "Turn on/off requests(only for users in board mode).\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:635
+msgid "Registration & Autorization Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:644
+msgid "Advertisement info"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:645
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry's standard dummy text ever since the "
+"1500s, when an unknown printer took a galley of type and scrambled it to "
+"make a type specimen book. It has survived not only five centuries, but also "
+"the leap into electronic typesetting, remaining essentially unchanged. It "
+"was popularised in the 1960s with the release of Letraset sheets containing "
+"Lorem Ipsum passages, and more recently with desktop publishing software "
+"like Aldus PageMaker including versions of Lorem Ipsum."
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:649
+msgid "Advertisement Site Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:659
+msgid "Contact details"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:660
+msgid "Contact details text in car's page"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:670
+msgid "Text Site Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:680
+msgid "Mail template: \"Confirm Email\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:681
+msgid "Available values: %username%, %confirm_code%, %confirm_url%"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:688
+msgid "Mail template: \"Recovery Password\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:689
+msgid "Available values: %username%, %recovery_link%, %recovery_code%"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:695
+msgid "Mail template: \"Add offer\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:696
+msgid ""
+"<strong>Important options:</strong> %dealer_name%, %username%, %user_email%, "
+"%car_name%, %cost%, %offer_details%, %link_car%"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:702
+msgid "Mail template: \"I want to be a dealer\""
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:703
+msgid "<strong>Important options:</strong> %username%, %comment%"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:708
+#: ../framework/application/core/admin.php:207
+msgid "Mail Template Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:718
+msgid "Loans:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:719
+msgid "Available loans"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:720
+msgid "Add Loan"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:729
+msgid "Enter loan name identifier (eg: Holidays 2014)"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:735
+msgid "Down Payment:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:736
+msgid "Enter down payment amount in percents"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:742
+msgid "Annual Rate:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:743
+msgid "Enter annual rate in percents"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:749
+msgid "Minimal period:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:750
+msgid "Enter minimal period count in years"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:756
+msgid "Maximal period:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:757
+msgid "Enter highest period count in years"
+msgstr ""
+
+#: ../framework/application/controllers/admin/site_options.php:771
+#: ../framework/application/core/admin.php:209
+msgid "Loans Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:39
+msgid "Specify page layout:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:40
+msgid ""
+"You may specify custom default page layout. For example, you see single "
+"column layout, layout wiht right or left sidebar and double column layout."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:52
+#: ../framework/application/core/metabox.php:57
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:53
+msgid "Check this option to disable breadcrumbs."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:59
+msgid "Disable Responsiveness"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:60
+msgid "Check this option to disable responsiveness."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:66
+msgid "Breadcrumb Delimiter"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:67
+msgid ""
+"Delimiter will separate breadcrumbs locations. Example:<br/><code>/ &gt; - "
+"→ , | &dot; &gt;&gt;</code>"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:73
+msgid "Currency sign location"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:74
+msgid "Specify currency sign location. Example: $3,500 or 3,500$"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:77
+msgid "Left"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:78
+msgid "Right"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:85
+msgid "Currency display"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:86
+msgid "Specify currency display overall look. Example: 3,500$ or 3,500USD"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:89
+msgid "Display Code."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:90
+msgid "Display Sign ($,£,¥)"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:98
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:99
+msgid "Upload your favicon."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:105
+msgid "Google Analytics"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:106
+msgid "Paste Google Analytics code here."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:113
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:114
+msgid ""
+"Place for custom styles. This option may customise any style of the website. "
+"Example:<br/><code>.logo a { color: blue; }</code>"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:121
+msgid "Custom JavaScript"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:122
+msgid ""
+"Place for custom javascript. Required some skills. Example:<br/"
+"><code>alert(\"Hello\");</code>"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:128
+msgid "General options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:138
+msgid "Logo Settings"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:152
+msgid "Custom Image Logo"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:153
+msgid "Upload your logo. PNG recommended."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:159
+msgid "Custom Image Logo Width"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:160
+msgid "Enter logotype width in pixels."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:166
+msgid "Custom Text Logo"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:167
+msgid "Leave blank to remove."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:174
+msgid "Header Style"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:190
+msgid "Header Phone"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:191
+msgid "Display phone number inside header. Leave blank to remove."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:198
+msgid "Header Company Location"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:199
+msgid "Display company location in site header. Leave blank to remove."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:206
+msgid "Enabled Header Add Car Button"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:207
+msgid "Check this option to enable \"Add Car\" button inside header."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:214
+msgid "Enable Header Sociable"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:215
+msgid "Check this option to enable sociable inside header."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:223
+msgid "Header Custom HTML"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:224
+msgid "Paste ads or custom HTML code here."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:232
+msgid "Enable Header Search"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:233
+msgid "Check this option to enable content search box in website header."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:239
+msgid "Header options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:249
+msgid "Footer Column Layout Top"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:250
+#: ../framework/application/controllers/admin/theme_options.php:267
+msgid "Select which column layout you would like to display with your footer."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:266
+msgid "Footer Column Layout Bottom"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:284
+msgid "Custom Footer Image Logo"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:285
+msgid ""
+"Upload an image to use as your footer logo for widget area. Please use high "
+"resolutions fot Retina ready devices."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:291
+msgid "Enable Footer Sociable"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:292
+msgid "Check this option to enable sociable from footer."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:298
+msgid "Copyright Text"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:299
+msgid ""
+"You can display copyright information here. It will show below your footer "
+"on the right hand side."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:304
+msgid "Footer options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:314
+msgid "Sociable"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:316
+msgid "Add New Sociable"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:322
+msgid "Sociable Icon"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:323
+msgid "Select social network icon."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:330
+msgid "Sociable Link"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:331
+msgid "Add your custom URL to your network profile."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:338
+msgid "Sociable options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:347
+msgid "Styles"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:348
+msgid "Select theme look."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:350
+msgid "Primary (BETA)"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:356
+msgid "Styled options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:366
+msgid "Blog Title"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:373
+#: ../framework/application/controllers/admin/theme_options.php:411
+#: ../framework/application/controllers/admin/theme_options.php:449
+#: ../framework/application/core/metabox.php:30
+msgid "Layout"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:374
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your blog "
+"page."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:386
+#: ../framework/application/controllers/admin/theme_options.php:424
+#: ../framework/application/controllers/admin/theme_options.php:462
+#: ../framework/application/core/metabox.php:64
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:387
+#: ../framework/application/controllers/admin/theme_options.php:425
+#: ../framework/application/controllers/admin/theme_options.php:463
+#: ../framework/application/core/metabox.php:65
+msgid ""
+"Select the custom sidebar that you'd like to be displayed on this page.<br /"
+"><br />Note:  You will need to first create a custom sidebar under the &quot;"
+"Sidebar&quot; tab in your theme's option panel before it will show up here."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:394
+msgid "Blog options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:404
+msgid "News Title"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:412
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your news "
+"page."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:432
+msgid "News options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:442
+msgid "Reviews Title"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:450
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your reviews "
+"page."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:470
+msgid "Reviews options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:480
+msgid "Create New Sidebar"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:481
+msgid ""
+"You can create additional sidebars to use.<br>To display your new sidebar "
+"then you will need to select it in the \"Custom Sidebar\" dropdown when "
+"editing a post or page."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:482
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:488
+msgid "Sidebar Name"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:496
+msgid "Sidebars options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:506
+msgid "Import Theme & Site Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:507
+msgid "Copy your export code here to import your theme settings"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:513
+msgid "Export Theme & Site Options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:514
+msgid ""
+"When moving your site to a new Wordpress installation you can export your "
+"theme settings here."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:519
+msgid "Backup options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:528
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:529
+msgid ""
+"Documentation has been provided with main theme files. Please open "
+"Documentation folder from downloaded directory."
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:533
+msgid "Theme Support"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:534
+msgid ""
+"We put a ton of effort into providing top-notch WordPress tech support to "
+"all of our customers. With our dedicated support staff, you can be sure that "
+"you will have your blog up and running without a hitch regardless of your "
+"experience level.\n"
+"\t\t\t\t\t\t\t\t\t\t<br/><br/>\n"
+"\t\t\t\t\t\t\t\t\t\tOur plethora of Shortcodes, Page Templates and Theme "
+"Options give you full control over your website. Manage your site like never "
+"before by using the countless powerful features that come packaged.<br/>\n"
+"\t\t\t\t\t\t\t\t\t\t<a href=\"http://winterjuice.com/support/\">Click to add "
+"your issue</a>"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:541
+msgid "Support options"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:550
+msgid "Theme Release Info"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:569
+#: ../framework/application/core/admin.php:194
+msgid "Release Info"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:581
+msgid "Theme Version:"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:596
+msgid "1.4 migrating instructions"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:605
+msgid "Error 404 appears"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:610
+msgid "Permissions Check"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:615
+msgid "PHP extensions and libraries"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:620
+msgid "PHP Information"
+msgstr ""
+
+#: ../framework/application/controllers/admin/theme_options.php:626
+#: ../framework/application/core/admin.php:195
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../framework/application/controllers/admin/users.php:72
+msgid "User updated"
+msgstr ""
+
+#: ../framework/application/controllers/admin/users.php:76
+msgid "User added"
+msgstr ""
+
+#: ../framework/application/core/admin.php:97
+msgid "Show all user`s cars"
+msgstr ""
+
+#: ../framework/application/core/admin.php:124
+msgid "Image"
+msgstr ""
+
+#: ../framework/application/core/admin.php:127
+#: ../framework/application/core/admin.php:136
+#: ../framework/application/core/metabox.php:103
+#: ../framework/application/core/metabox.php:131
+msgid "Owner"
+msgstr ""
+
+#: ../framework/application/core/admin.php:128
+#: ../framework/application/views/blocks/car/view.php:6
+msgid "Views"
+msgstr ""
+
+#: ../framework/application/core/admin.php:158
+msgid "Not set"
+msgstr ""
+
+#: ../framework/application/core/admin.php:175
+msgid "Primary Menu"
+msgstr ""
+
+#: ../framework/application/core/admin.php:176
+msgid "Footer Menu"
+msgstr ""
+
+#: ../framework/application/core/admin.php:182
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:183
+msgid "General Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:183
+#: ../framework/application/core/admin.php:200
+#: ../framework/application/core/admin.php:220
+msgid "General Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:184
+msgid "Header Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:184
+msgid "Header Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:185
+msgid "Footer Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:185
+msgid "Footer Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:186
+msgid "Sociable Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:186
+msgid "Sociable Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:187
+msgid "Styled Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:187
+msgid "Styled Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:188
+msgid "Blog Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:188
+msgid "Blog Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:189
+msgid "News Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:189
+msgid "News Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:190
+msgid "Reviews Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:190
+msgid "Reviews Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:191
+msgid "Sidebars Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:191
+msgid "Sidebars Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:192
+msgid "Backup Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:192
+msgid "Backup Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:193
+msgid "Support Theme Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:193
+msgid "Support Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:199
+msgid "Site Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:201
+msgid "Search Filter Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:203
+msgid "Catalog Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:204
+#: ../framework/application/core/metabox.php:193
+msgid "Car Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:205
+msgid "Registration Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:208
+msgid "Text Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:208
+msgid "Texts Options "
+msgstr ""
+
+#: ../framework/application/core/admin.php:214
+msgid "Theme Install"
+msgstr ""
+
+#: ../framework/application/core/admin.php:214
+msgid "Theme Install "
+msgstr ""
+
+#: ../framework/application/core/admin.php:216
+msgid "Edit Reference Tables"
+msgstr ""
+
+#: ../framework/application/core/admin.php:216
+msgid "Reference"
+msgstr ""
+
+#: ../framework/application/core/admin.php:217
+msgid "Edit Frontend Users"
+msgstr ""
+
+#: ../framework/application/core/admin.php:217
+msgid "Frontend Users"
+msgstr ""
+
+#: ../framework/application/core/admin.php:219
+msgid "Merchant [BETA]"
+msgstr ""
+
+#: ../framework/application/core/admin.php:221
+msgid "PayPal Options"
+msgstr ""
+
+#: ../framework/application/core/admin.php:222
+msgid "Custom Gateway"
+msgstr ""
+
+#: ../framework/application/core/admin.php:222
+msgid "Gateway Options"
+msgstr ""
+
+#: ../framework/application/core/admin_controller.php:344
+msgid "Add Item {n}"
+msgstr ""
+
+#: ../framework/application/core/admin_controller.php:364
+msgid "Item: "
+msgstr ""
+
+#: ../framework/application/core/metabox.php:20
+#, php-format
+msgid "%1$s Page Layout"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:31
+msgid ""
+"You can choose between a left, right, or no sidebar layout for your page."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:43
+msgid "Page Tagline"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:44
+msgid "Alternative page title."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:50
+msgid "Disable Page H1 title"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:51
+msgid "Check this option to disable page H1 title on this page"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:58
+msgid "Check this option to disable breadcrumbs on this page"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:75
+#, php-format
+msgid "%1$s General Post Options"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:85
+msgid "Featured Video"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:86
+msgid "You can paste a URL of a video here to display within your post."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:92
+msgid "Disable Featured Image"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:93
+msgid "Check this box to disable featured post image inside."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:122
+msgid "Promote Date"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:140
+msgid "Affiliate"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:148
+msgid "Make this item featured"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:149
+msgid "Check this option to make this item featured"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:159
+msgid "Photos"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:206
+msgid "Please select transport type."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:215
+msgid "Please select manufacturer."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:223
+#: ../framework/application/libraries/js_composer/auto_gallery.php:47
+#: ../framework/application/libraries/js_composer/recent_cars.php:47
+#: ../framework/application/libraries/js_composer/search_auto.php:106
+#: ../framework/application/views/blocks/car/view.php:48
+msgid "Model"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:224
+msgid "Please select Model."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:231
+msgid "Version"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:232
+msgid "You can paste a version"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:238
+#: ../framework/application/views/blocks/car/view.php:48
+msgid "Body type"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:239
+msgid "Please select body type."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:246
+msgid "Transmission"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:247
+msgid "Please select transmission."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:255
+msgid "Please select doors."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:263
+msgid "Please select fuel."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:270
+msgid "Technical condition"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:271
+msgid "Please select technical condition."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:280
+msgid "Please select region."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:288
+#: ../framework/application/libraries/js_composer/search_auto.php:221
+#: ../framework/application/views/blocks/catalog/filters.php:159
+msgid "State"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:289
+msgid "Please select state."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:297
+msgid "Please select drive."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:305
+msgid "Please select color."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:312
+msgid "Condition Category"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:313
+msgid "Please select item condition."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:315
+#: ../framework/application/views/blocks/catalog/list.php:28
+#: ../framework/application/views/blocks/dealer/info.php:70
+#: ../framework/application/views/blocks/vehicles/add.php:257
+#: ../framework/application/views/blocks/vehicles/list.php:100
+msgid "New car"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:316
+#: ../framework/application/views/blocks/catalog/grid.php:21
+#: ../framework/application/views/blocks/catalog/list.php:28
+#: ../framework/application/views/blocks/dealer/info.php:70
+#: ../framework/application/views/blocks/vehicles/add.php:258
+msgid "Used"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:324
+msgid "Specify item price (only numbers allowed)."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:331
+msgid "Сurrency"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:332
+msgid "Please select currency."
+msgstr ""
+
+#: ../framework/application/core/metabox.php:339
+#: ../framework/application/libraries/js_composer/search_auto.php:142
+#: ../framework/application/views/blocks/car/view.php:91
+msgid "Mileage"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:340
+msgid "You can paste a mileage"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:347
+msgid "Vin code"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:348
+msgid "You can paste a vin code"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:354
+msgid "Engine, cm³"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:355
+msgid "You can paste cilindrics"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:362
+msgid "Engine power"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:363
+msgid "You can paste engine power"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:371
+msgid "You can paste fabrication year"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:377
+msgid "Seats"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:378
+msgid "You can paste seats"
+msgstr ""
+
+#: ../framework/application/core/metabox.php:384
+msgid "Price negotiable"
+msgstr ""
+
+#: ../framework/application/core/notices.php:9
+msgid ""
+"Warning, you're runing outdated PHP version. Please update server to support "
+"PHP 5.3 or above."
+msgstr ""
+
+#: ../framework/application/core/notices.php:12
+msgid ""
+"Warning, You must install GD2 library on your server. Otherwise image upload "
+"will be impossible."
+msgstr ""
+
+#: ../framework/application/core/notices.php:15
+msgid ""
+"Please install Visual Composer plugin from theme pack. Plugin comes with "
+"full theme package, and stored inside plugins/js_composer.zip archive."
+msgstr ""
+
+#: ../framework/application/core/notices.php:19
+#, php-format
+msgid "Version has been updated successfuly to %s."
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:29
+msgctxt "post type general name"
+msgid "Cars"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:30
+msgctxt "post type singular name"
+msgid "Car"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:31
+#: ../framework/application/core/posttypes.php:91
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:33
+msgid "Edit Car"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:35
+msgid "View Car"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:36
+msgid "Search Car"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:37
+msgid "No Car found"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:38
+msgid "No Car found in Trash"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:41
+msgid "Car"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:59
+msgctxt "post type general name"
+msgid "Reviews"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:60
+msgctxt "post type singular name"
+msgid "Reviews"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:61
+msgctxt "service"
+msgid "Add Review"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:62
+#: ../framework/application/core/posttypes.php:64
+msgid "Add Review"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:63
+msgid "Edit Review"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:65
+msgid "View Review"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:66
+msgid "Search Review"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:67
+msgid "No reviews found"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:68
+msgid "No Review found in Trash"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:71
+#: ../framework/application/widgets/header_widget.php:57
+msgid "Reviews"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:89
+msgctxt "post type general name"
+msgid "News"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:90
+msgctxt "post type singular name"
+msgid "News"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:92
+#: ../framework/application/core/posttypes.php:94
+msgid "Add News"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:93
+msgid "Edit News"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:95
+msgid "View News"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:96
+msgid "Search News"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:97
+msgid "No news found"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:98
+msgid "No news found in Trash"
+msgstr ""
+
+#: ../framework/application/core/posttypes.php:121
+msgctxt "post"
+msgid "Archive"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:9
+msgid "Primary Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:10
+msgid "The primary widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:13
+msgid "Catalog Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:14
+msgid "The catalog widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:17
+msgid "Car Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:18
+msgid "The car widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:22
+msgid "First Footer Top Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:23
+msgid "The first footer top widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:26
+msgid "Second Footer Top Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:27
+msgid "The second footer top widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:30
+msgid "Third Footer Top Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:31
+msgid "The third footer top widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:34
+msgid "Fourth Footer Top Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:35
+msgid "The fourth footer top widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:39
+msgid "First Closer Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:40
+msgid "The first footer bottom widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:43
+msgid "Second Closer Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:44
+msgid "The second footer bottom widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:47
+msgid "Third Closer Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:48
+msgid "The third footer bottom widget area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:51
+msgid "Fourth Closer Widget Area"
+msgstr ""
+
+#: ../framework/application/core/sidebar.php:52
+msgid "The fourth footer bottom widget area"
+msgstr ""
+
+#: ../framework/application/helpers/common.php:50
+#: ../framework/application/helpers/common.php:51
+msgid "miles"
+msgstr ""
+
+#: ../framework/application/helpers/common.php:55
+msgid "kilometers"
+msgstr ""
+
+#: ../framework/application/helpers/common.php:56
+msgid "km"
+msgstr ""
+
+#: ../framework/application/libraries/breadcrumbs.php:9
+msgid "Home"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:9
+msgid "Slider: Auto Gallery"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:13
+#: ../framework/application/libraries/js_composer/auto_news.php:13
+#: ../framework/application/libraries/js_composer/calltoaction.php:13
+#: ../framework/application/libraries/js_composer/manufacturers.php:13
+#: ../framework/application/libraries/js_composer/recent_cars.php:13
+#: ../framework/application/libraries/js_composer/recent_dealers.php:13
+#: ../framework/application/libraries/js_composer/recent_posts.php:13
+#: ../framework/application/libraries/js_composer/search_auto.php:21
+#: ../framework/application/libraries/js_composer/slider_posts.php:13
+#: ../framework/application/libraries/js_composer/subscribe.php:13
+msgid "Theme Short-Codes"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:17
+#: ../framework/application/libraries/js_composer/auto_news.php:28
+#: ../framework/application/libraries/js_composer/recent_cars.php:28
+#: ../framework/application/libraries/js_composer/recent_dealers.php:35
+#: ../framework/application/libraries/js_composer/recent_posts.php:47
+#: ../framework/application/libraries/js_composer/slider_posts.php:17
+msgid "Limit"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:24
+#: ../framework/application/libraries/js_composer/auto_news.php:35
+#: ../framework/application/libraries/js_composer/manufacturers.php:35
+#: ../framework/application/libraries/js_composer/recent_cars.php:35
+#: ../framework/application/libraries/js_composer/recent_dealers.php:42
+#: ../framework/application/libraries/js_composer/recent_posts.php:54
+#: ../framework/application/libraries/js_composer/slider_posts.php:24
+msgid "Select limit to display on this block"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:28
+msgid "Display options"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:58
+#: ../framework/application/libraries/js_composer/recent_cars.php:57
+#: ../framework/application/libraries/js_composer/slider_posts.php:40
+msgid "Autoplay"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:69
+#: ../framework/application/libraries/js_composer/recent_cars.php:68
+#: ../framework/application/libraries/js_composer/slider_posts.php:51
+msgid "Pause"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:72
+#: ../framework/application/libraries/js_composer/recent_cars.php:71
+#: ../framework/application/libraries/js_composer/slider_posts.php:54
+msgid "Specify slideshow timeout in ms."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:76
+#: ../framework/application/libraries/js_composer/auto_news.php:39
+#: ../framework/application/libraries/js_composer/calltoaction.php:70
+#: ../framework/application/libraries/js_composer/manufacturers.php:39
+#: ../framework/application/libraries/js_composer/recent_cars.php:75
+#: ../framework/application/libraries/js_composer/recent_dealers.php:69
+#: ../framework/application/libraries/js_composer/recent_posts.php:97
+#: ../framework/application/libraries/js_composer/search_auto.php:44
+#: ../framework/application/libraries/js_composer/slider_posts.php:58
+#: ../framework/application/libraries/js_composer/subscribe.php:44
+msgid "Extra class name"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:79
+#: ../framework/application/libraries/js_composer/auto_news.php:42
+#: ../framework/application/libraries/js_composer/calltoaction.php:73
+#: ../framework/application/libraries/js_composer/manufacturers.php:42
+#: ../framework/application/libraries/js_composer/recent_cars.php:78
+#: ../framework/application/libraries/js_composer/recent_dealers.php:72
+#: ../framework/application/libraries/js_composer/recent_posts.php:100
+#: ../framework/application/libraries/js_composer/search_auto.php:47
+#: ../framework/application/libraries/js_composer/slider_posts.php:61
+#: ../framework/application/libraries/js_composer/subscribe.php:47
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in Custom CSS Shortcode or "
+"Masterkey Custom CSS option."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:149
+#: ../framework/application/views/blocks/dealer/info.php:26
+#: ../framework/application/views/blocks/dealer/info.php:67
+#: ../framework/application/views/blocks/vehicles/add.php:247
+msgid "cm³"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_gallery.php:158
+msgid "Login and add new vehicles."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_news.php:9
+msgid "Auto news vertical column"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_news.php:17
+#: ../framework/application/libraries/js_composer/calltoaction.php:40
+#: ../framework/application/libraries/js_composer/manufacturers.php:17
+#: ../framework/application/libraries/js_composer/recent_cars.php:17
+#: ../framework/application/libraries/js_composer/recent_dealers.php:17
+#: ../framework/application/libraries/js_composer/recent_posts.php:17
+#: ../framework/application/libraries/js_composer/search_auto.php:25
+#: ../framework/application/libraries/js_composer/subscribe.php:17
+msgid "Title"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_news.php:20
+#: ../framework/application/libraries/js_composer/recent_cars.php:20
+#: ../framework/application/libraries/js_composer/recent_posts.php:20
+msgid "Description will appear below each chart."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/auto_news.php:92
+msgid "All news"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:9
+msgid "Call to action"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:17
+msgid "Action"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:28
+msgid "Visibility"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:43
+#: ../framework/application/libraries/js_composer/subscribe.php:20
+msgid "Enter block caption."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:48
+msgid "Link"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:51
+msgid "Internal or external URI."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:56
+msgid "Button"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:59
+msgid "Button caption."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:63
+msgid "Description"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/calltoaction.php:66
+msgid "Please enter few words about action."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/manufacturers.php:20
+msgid "Enter shortcode title."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/manufacturers.php:28
+msgid "Columns"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:74
+#: ../framework/application/views/blocks/admin/fields/upload.php:25
+msgid "Upload"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:197
+msgid "Show Icons"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:229
+#: ../framework/application/libraries/js_composer/params.php:241
+#: ../framework/application/libraries/js_composer/params.php:256
+msgid "Display Style"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:230
+#: ../framework/application/libraries/js_composer/params.php:242
+#: ../framework/application/libraries/js_composer/params.php:257
+msgid "Select display style."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:233
+#: ../framework/application/libraries/js_composer/params.php:245
+msgid "Style #1"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:234
+#: ../framework/application/libraries/js_composer/params.php:246
+msgid "Style #2"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:247
+msgid "Style #3"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:248
+msgid "Style #4"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:249
+msgid "Style #5"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:260
+msgid "Without borders"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/params.php:261
+msgid "With borders on left and right sides"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_cars.php:9
+msgid "Recent Listings"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_dealers.php:9
+msgid "Recent Dealers"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_dealers.php:20
+msgid "Enter custom title."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_dealers.php:46
+msgid "Carousel"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_dealers.php:58
+#: ../framework/application/libraries/js_composer/recent_posts.php:73
+msgid "View post"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_dealers.php:65
+#: ../framework/application/libraries/js_composer/recent_posts.php:80
+msgid "Select limit to display on one row"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_dealers.php:111
+#, php-format
+msgid "Total %s dealers"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:9
+msgid "Recent Posts"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:28
+#: ../framework/application/libraries/js_composer/slider_posts.php:28
+msgid "Post type"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:65
+msgid "Description length"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:68
+msgid "Enter truncated content length in symbols."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:84
+msgid "Hide <small>(optional)</small>"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:85
+msgid "You may hide away some screen items."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:89
+msgid "Featured image"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/recent_posts.php:90
+msgid "Teaser"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:17
+msgid "Search auto"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:36
+msgid "Shortcode Options"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:40
+msgid ""
+"<b>You can edit settings form`s fields in <a target=\"_blank\" href=\"admin."
+"php?page=at_site_options_catalog\">Catalog Site Options</a> ( \"Shortcode "
+"Search Form\" )</b>"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:96
+#: ../framework/application/libraries/js_composer/search_auto.php:109
+#: ../framework/application/libraries/js_composer/search_auto.php:153
+#: ../framework/application/libraries/js_composer/search_auto.php:164
+#: ../framework/application/libraries/js_composer/search_auto.php:175
+#: ../framework/application/libraries/js_composer/search_auto.php:186
+#: ../framework/application/libraries/js_composer/search_auto.php:197
+#: ../framework/application/libraries/js_composer/search_auto.php:211
+#: ../framework/application/libraries/js_composer/search_auto.php:224
+#: ../framework/application/libraries/js_composer/search_auto.php:233
+#: ../framework/application/libraries/js_composer/search_auto.php:244
+#: ../framework/application/views/blocks/catalog/filters.php:38
+#: ../framework/application/views/blocks/catalog/filters.php:48
+#: ../framework/application/views/blocks/catalog/filters.php:93
+#: ../framework/application/views/blocks/catalog/filters.php:104
+#: ../framework/application/views/blocks/catalog/filters.php:115
+#: ../framework/application/views/blocks/catalog/filters.php:126
+#: ../framework/application/views/blocks/catalog/filters.php:137
+#: ../framework/application/views/blocks/catalog/filters.php:149
+#: ../framework/application/views/blocks/catalog/filters.php:162
+#: ../framework/application/views/blocks/catalog/filters.php:170
+#: ../framework/application/views/blocks/catalog/filters.php:181
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:14
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:26
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:98
+#: ../framework/application/views/blocks/settings/dealer_profile.php:61
+#: ../framework/application/views/blocks/settings/user_profile.php:72
+msgid "Any"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:117
+#: ../framework/application/libraries/js_composer/search_auto.php:136
+#: ../framework/application/libraries/js_composer/search_auto.php:144
+#: ../framework/application/libraries/js_composer/search_auto.php:255
+#: ../framework/application/views/blocks/catalog/filters.php:59
+#: ../framework/application/views/blocks/catalog/filters.php:84
+#: ../framework/application/views/blocks/catalog/filters.php:193
+msgid "From"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:124
+#: ../framework/application/libraries/js_composer/search_auto.php:137
+#: ../framework/application/libraries/js_composer/search_auto.php:145
+#: ../framework/application/libraries/js_composer/search_auto.php:262
+#: ../framework/application/views/blocks/catalog/filters.php:65
+#: ../framework/application/views/blocks/catalog/filters.php:85
+#: ../framework/application/views/blocks/catalog/filters.php:200
+msgid "To"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:150
+#: ../framework/application/views/blocks/catalog/filters.php:90
+msgid "Body type:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:161
+#: ../framework/application/views/blocks/catalog/filters.php:101
+#: ../framework/application/views/blocks/vehicles/add.php:228
+msgid "Fuel:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:172
+#: ../framework/application/views/blocks/catalog/filters.php:112
+#: ../framework/application/views/blocks/vehicles/add.php:186
+msgid "Transmission:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:183
+#: ../framework/application/views/blocks/catalog/filters.php:123
+msgid "Doors:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:194
+#: ../framework/application/views/blocks/catalog/filters.php:134
+msgid "Region:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:208
+#: ../framework/application/views/blocks/catalog/filters.php:146
+msgid "Country"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:230
+#: ../framework/application/views/blocks/catalog/filters.php:167
+#: ../framework/application/views/blocks/vehicles/add.php:195
+msgid "Drive:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:241
+#: ../framework/application/views/blocks/catalog/filters.php:178
+#: ../framework/application/views/blocks/vehicles/add.php:219
+msgid "Color:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/search_auto.php:252
+#: ../framework/application/views/blocks/catalog/filters.php:190
+msgid "Engine, cm³:"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/slider_posts.php:9
+msgid "Slider: Posts"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/slider_posts.php:122
+msgid "Please add more posts."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:9
+msgid "Subscribe Form"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:24
+msgid "Custom subscribe URL (optional)"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:27
+msgid ""
+"If you wish to use your own newsletter system, please enter custom URL here."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:31
+msgid "Email field name (optional)"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:37
+msgid "Custom FORM fields (optional)"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:40
+msgid ""
+"If you wish to use your own newsletter system with custo fields, please "
+"enter below. HTML allowed."
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:77
+msgid "Enter your email"
+msgstr ""
+
+#: ../framework/application/libraries/js_composer/subscribe.php:87
+msgid "Subscribe"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/advert.php:7
+msgid ""
+"Display your Sponsor Links. Recommended image width is 300px. If one of link "
+"is empty, then banner will not shown."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/advert.php:9
+#, php-format
+msgid "%1$s - Sponsor Banners"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/asidemenu.php:7
+msgid "Display custom menu from Appearance &rarr menu."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/asidemenu.php:9
+#, php-format
+msgid "%1$s - Custom Menu"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:7
+msgid "Quickly add contact info to your sidebar (e.g. address, phone #, email)"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:9
+#, php-format
+msgid "%1$s - Contact Us"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:14
+#: ../framework/application/libraries/widgets/workhours.php:14
+msgid "Contact Info"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:68
+msgid "Address"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:75
+#: ../framework/application/views/blocks/admin/users/form.php:18
+#: ../framework/application/views/blocks/admin/users/list.php:93
+msgid "Phone"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:78
+msgid "Fax"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:85
+#: ../framework/application/views/blocks/admin/users/form.php:8
+#: ../framework/application/views/blocks/admin/users/list.php:89
+#: ../framework/application/views/blocks/auth/login.php:10
+#: ../framework/application/views/blocks/auth/recovery.php:11
+#: ../framework/application/views/blocks/auth/registration.php:11
+#: ../framework/application/views/blocks/car/view.php:115
+#: ../framework/application/views/widgets/header/header.php:77
+#: ../framework/application/views/widgets/header/header.php:95
+msgid "Email"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:90
+msgid "Web Site"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:126
+#: ../framework/application/libraries/widgets/workhours.php:124
+msgid "Title:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:132
+msgid "Address:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:135
+msgid "City:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:138
+#: ../framework/application/views/blocks/vehicles/add.php:302
+msgid "State:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:141
+msgid "Zip:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:144
+msgid "Phone:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:147
+msgid "Fax:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:150
+msgid "Email:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/contact.php:153
+msgid "Web Site:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/featuredcar.php:7
+msgid "Display featured car banner."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/featuredcar.php:9
+#, php-format
+msgid "%1$s - Featured Car"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/featuredcar.php:39
+msgid "Car ID not specified. Please edit widget and define car."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/featuredcar.php:64
+#: ../framework/application/libraries/widgets/textblock.php:37
+#: ../framework/application/views/blocks/blog/view.php:23
+msgid "Read more"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:7
+msgid "Display loan calculator."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:9
+#, php-format
+msgid "%1$s - Loan Calculator"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:63
+msgid "Loan Amount"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:69
+msgid "Down Payment"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:82
+msgid "Annual Rate"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:84
+#: ../framework/application/libraries/widgets/loancalculator.php:92
+msgid "Please select..."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:90
+msgid "Loan Period"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:96
+msgid "Calculate"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:101
+msgid ""
+"Loan Calculator requires enable Javascript support. Please enable Javascript "
+"in your browser settings to continue, and reload page."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/loancalculator.php:225
+msgid ""
+"Loan Calculator options available at the Site Options &rarr; Loans Options "
+"page."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/manufacturers.php:7
+msgid "Display manufacturers catalog."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/manufacturers.php:9
+#, php-format
+msgid "%1$s - Make Catalog"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/map.php:7
+msgid "Display custom map."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/map.php:9
+#, php-format
+msgid "%1$s - Map"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/recent.php:7
+msgid "Display most recent and popular posts."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/recent.php:9
+#, php-format
+msgid "%1$s - Recent & Popular"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/recent.php:39
+msgid "Recent"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/recent.php:40
+msgid "Popular"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/sociable.php:7
+msgid "Display social icons from Theme Options &rarr; Sociable."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/sociable.php:9
+#, php-format
+msgid "%1$s - Social Icons"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/textblock.php:7
+msgid "Display custom text block."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/textblock.php:9
+#, php-format
+msgid "%1$s - Text Block"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/twitter.php:7
+msgid "Fetch twitter feed."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/twitter.php:9
+#, php-format
+msgid "%1$s - Twitter"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/twitter.php:79
+msgid "Tweets not found."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:7
+msgid "Office work hours widget."
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:9
+#, php-format
+msgid "%1$s - Work Hours"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:29
+#: ../framework/application/views/blocks/dealer/right_side.php:58
+#: ../framework/application/views/blocks/dealer/right_side.php:98
+msgid "Monday"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:30
+#: ../framework/application/views/blocks/dealer/right_side.php:62
+#: ../framework/application/views/blocks/dealer/right_side.php:102
+msgid "Tuesday"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:31
+#: ../framework/application/views/blocks/dealer/right_side.php:66
+#: ../framework/application/views/blocks/dealer/right_side.php:106
+msgid "Wednesday"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:32
+#: ../framework/application/views/blocks/dealer/right_side.php:70
+#: ../framework/application/views/blocks/dealer/right_side.php:110
+msgid "Thursday"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:33
+#: ../framework/application/views/blocks/dealer/right_side.php:74
+#: ../framework/application/views/blocks/dealer/right_side.php:114
+msgid "Friday"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:34
+#: ../framework/application/views/blocks/dealer/right_side.php:78
+#: ../framework/application/views/blocks/dealer/right_side.php:118
+msgid "Saturday"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:35
+#: ../framework/application/views/blocks/dealer/right_side.php:82
+#: ../framework/application/views/blocks/dealer/right_side.php:122
+msgid "Sunday"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:127
+msgid "Description Before:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:131
+msgid "Monday:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:135
+msgid "Tuesday:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:139
+msgid "Wednesday:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:143
+msgid "Thursday:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:147
+msgid "Friday:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:151
+msgid "Saturday:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:155
+msgid "Sunday:"
+msgstr ""
+
+#: ../framework/application/libraries/widgets/workhours.php:159
+msgid "Description After:"
+msgstr ""
+
+#: ../framework/application/models/mail_model.php:29
+msgid "Recovery password"
+msgstr ""
+
+#: ../framework/application/models/mail_model.php:32
+#: ../framework/application/views/blocks/car/view.php:108
+msgid "Add offer"
+msgstr ""
+
+#: ../framework/application/models/mail_model.php:35
+#: ../framework/application/views/blocks/general/navigation.php:23
+#: ../framework/application/views/blocks/general/navigation.php:32
+msgid "I want to be a dealer"
+msgstr ""
+
+#: ../framework/application/models/mail_model.php:38
+msgid "Confirm email"
+msgstr ""
+
+#: ../framework/application/models/menu_model.php:13
+msgid "Archive cars"
+msgstr ""
+
+#: ../framework/application/models/menu_model.php:16
+msgid "Contact affiliates"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:13
+msgid "Models"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:14
+msgid "Body Style"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:15
+msgid "Currencies"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:17
+msgid "Equipments"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:18
+msgid "Fuel Type"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:19
+msgid "Technical Conditions"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:20
+msgid "Transmissions"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:21
+msgid "Transport Types"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:22
+msgid "Countries"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:23
+msgid "States"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:25
+msgid "Colors"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:31
+msgid "Active"
+msgstr ""
+
+#: ../framework/application/models/admin/menu_model.php:32
+#: ../framework/application/views/blocks/admin/users/list.php:156
+msgid "Trash"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/fields/car_photo_upload.php:14
+#: ../framework/application/views/blocks/admin/fields/car_photo_upload.php:25
+#: ../framework/application/views/blocks/vehicles/add.php:358
+#: ../framework/application/views/blocks/vehicles/add.php:372
+msgid "Set main"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/fields/car_photo_upload.php:15
+#: ../framework/application/views/blocks/admin/fields/car_photo_upload.php:26
+#: ../framework/application/views/blocks/admin/fields/group_item.php:11
+#: ../framework/application/views/blocks/admin/reference/equipments.php:21
+#: ../framework/application/views/blocks/admin/reference/models.php:34
+#: ../framework/application/views/blocks/admin/reference/states.php:32
+#: ../framework/application/views/blocks/admin/reference/three_columns.php:31
+#: ../framework/application/views/blocks/admin/reference/two_columns.php:19
+#: ../framework/application/views/blocks/vehicles/add.php:359
+#: ../framework/application/views/blocks/vehicles/add.php:373
+msgid "Delete"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/fields/car_photo_upload.php:33
+msgid "Upload photos"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/fields/car_photo_upload.php:36
+msgid "Publish post"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/fields/catalog_search_form.php:11
+msgid "Catalog Search Form:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/fields/catalog_search_form.php:12
+msgid "Sets:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/fields/select.php:11
+msgid "Select option"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:5
+msgid "step 1.  install"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:6
+msgid "step 2.  settings"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:9
+msgid "Welcome"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:11
+msgid ""
+"Welcome to Auto Dealer installer. Data collection will be performed to "
+"activate your website. Auto Dealer installer will create additional tables "
+"for frontend users."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:12
+msgid ""
+"Please follow the instructions and fill all fields with correct information. "
+"Information below required to create a front-end user (dealer) to control "
+"all your products from Auto Dealer UI."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:18
+#: ../framework/application/views/blocks/settings/user_profile.php:51
+msgid "Full name:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:22
+msgid ""
+"Users will see your name publicaly as dealer name. You may enter company "
+"name, for example: Yourcompany LTD."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:27
+msgid "Enter your email:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:31
+msgid "Email address required for login page and password recovery."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:36
+msgid "Enter password:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:44
+msgid "Confirm password:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:48
+msgid ""
+"We are recommend use different password from your WordPress admin to protect "
+"your website."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:52
+msgid "Install the test data?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:57
+msgid "Install"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:63
+msgid "Congratulations! You have installed all data successful!"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:65
+msgid ""
+"Your website may function in two different modes - Sole Trader mode (only "
+"you may sell) and Dealer mode - when several partners (dealers) may sell "
+"their products. All dealers could be registered only by you."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/install/view.php:82
+msgid "Finish"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/merchant/content.php:6
+#: ../framework/application/views/blocks/admin/site_options/content.php:6
+#: ../framework/application/views/blocks/admin/theme_options/content.php:6
+msgid "Set to default"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/merchant/content.php:9
+#: ../framework/application/views/blocks/admin/site_options/content.php:9
+#: ../framework/application/views/blocks/admin/theme_options/content.php:9
+msgid "Save all options"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/merchant/content.php:11
+#: ../framework/application/views/blocks/admin/reference/content.php:7
+#: ../framework/application/views/blocks/admin/site_options/content.php:11
+#: ../framework/application/views/blocks/admin/theme_options/content.php:11
+#: ../framework/application/views/blocks/admin/users/list.php:57
+msgid "Saving..."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/merchant/content.php:17
+#: ../framework/application/views/blocks/admin/site_options/content.php:17
+#: ../framework/application/views/blocks/admin/theme_options/content.php:17
+msgid "Save All Changes"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/content.php:9
+msgid "Reference Tables"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/content.php:11
+msgid "Edit/Add Item"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/equipments.php:5
+#: ../framework/application/views/blocks/admin/reference/models.php:6
+#: ../framework/application/views/blocks/admin/reference/states.php:6
+#: ../framework/application/views/blocks/admin/reference/three_columns.php:12
+#: ../framework/application/views/blocks/admin/reference/two_columns.php:5
+msgid "Delete this Item?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/equipments.php:6
+#: ../framework/application/views/blocks/admin/reference/models.php:7
+#: ../framework/application/views/blocks/admin/reference/states.php:7
+#: ../framework/application/views/blocks/admin/reference/three_columns.php:13
+#: ../framework/application/views/blocks/admin/reference/two_columns.php:6
+msgid ""
+"These items will be permanently deleted and cannot be recovered. Are you "
+"sure?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/equipments.php:11
+#: ../framework/application/views/blocks/admin/reference/form.php:9
+#: ../framework/application/views/blocks/admin/reference/models.php:24
+#: ../framework/application/views/blocks/admin/reference/three_columns.php:18
+msgid "Alias"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/equipments.php:20
+#: ../framework/application/views/blocks/admin/reference/models.php:33
+#: ../framework/application/views/blocks/admin/reference/states.php:31
+#: ../framework/application/views/blocks/admin/reference/three_columns.php:30
+#: ../framework/application/views/blocks/admin/reference/two_columns.php:18
+#: ../framework/application/views/blocks/admin/users/list.php:153
+#: ../framework/application/views/blocks/vehicles/list.php:59
+msgid "Edit"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/form.php:38
+#: ../framework/application/views/blocks/admin/users/form.php:47
+msgid "Saving data..."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/models.php:11
+#: ../framework/application/views/blocks/catalog/filters.php:35
+#: ../framework/application/views/blocks/vehicles/add.php:44
+msgid "Make:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/models.php:13
+msgid "Select Make"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/states.php:11
+#: ../framework/application/views/blocks/vehicles/add.php:292
+msgid "Country:"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/reference/states.php:13
+msgid "Select Country"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/form.php:13
+#: ../framework/application/views/blocks/auth/login.php:11
+#: ../framework/application/views/blocks/auth/recovery_pass.php:13
+#: ../framework/application/views/blocks/auth/registration.php:12
+#: ../framework/application/views/blocks/auth/registration.php:15
+#: ../framework/application/views/widgets/header/header.php:78
+#: ../framework/application/views/widgets/header/header.php:96
+msgid "Password"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/form.php:22
+#: ../framework/application/views/blocks/admin/users/list.php:94
+msgid "Phone 2"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/form.php:27
+msgid "Dealer alias"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/form.php:32
+msgid "User status"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/form.php:35
+#: ../framework/application/views/blocks/admin/users/list.php:141
+msgid "Dealer"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/form.php:37
+msgid "User"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/form.php:45
+msgid "Change Password"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:5
+msgid "Block This User?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:7
+msgid "This user will be blocked. Are you sure?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:10
+msgid "What to do with vehicles?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:14
+msgid "Move to archive"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:18
+msgid "Assign to another user"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:23
+msgid "Assign user"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:33
+msgid "Loading..."
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:35
+msgid "Unblock This User?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:36
+msgid "This user will be unblocked. Are you sure?"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:38
+msgid "Change user password"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:42
+#: ../framework/application/views/blocks/settings/dealer_profile.php:25
+#: ../framework/application/views/blocks/settings/user_profile.php:25
+msgid "New password"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:49
+msgid "Edit/Add User"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:59
+msgid "Users"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:64
+msgid "Photo"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:105
+msgid "Date Create"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:119
+msgid "Date Active"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:123
+msgid "User Type"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:124
+msgid "Status"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:146
+msgid "Blocked"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:146
+msgid "Actived"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:148
+msgid "Main User"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:154
+#: ../framework/application/views/blocks/catalog/filters.php:13
+msgid "Cars"
+msgstr ""
+
+#: ../framework/application/views/blocks/admin/users/list.php:157
+msgid "Restore"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/confirm_email.php:8
+msgid "Confirm Email"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/confirm_email.php:11
+msgid "Auth-Code"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/confirm_email.php:12
+msgid "Confirm"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/confirm_email.php:13
+msgid "Resend code"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/login.php:7
+#: ../framework/application/views/widgets/header/header.php:70
+#: ../framework/application/views/widgets/header/header.php:74
+msgid "Login"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/login.php:12
+#: ../framework/application/views/widgets/header/header.php:79
+msgid "LOGIN"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/login.php:14
+#: ../framework/application/views/widgets/header/header.php:83
+msgid "Lost password?"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/login.php:15
+#: ../framework/application/views/widgets/header/header.php:84
+msgid "Remember me"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/recovery.php:8
+#: ../framework/application/views/blocks/auth/recovery_pass.php:8
+msgid "Password recovery"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/recovery.php:12
+msgid "send"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/recovery_pass.php:11
+msgid "Hash"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/recovery_pass.php:14
+msgid "Password repeat"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/recovery_pass.php:16
+msgid "Send"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/registration.php:7
+#: ../framework/application/views/widgets/header/header.php:91
+msgid "Registration"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/registration.php:10
+#: ../framework/application/views/widgets/header/header.php:94
+msgid "Username"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/registration.php:13
+#: ../framework/application/views/blocks/auth/registration.php:16
+#: ../framework/application/views/blocks/settings/dealer_profile.php:29
+#: ../framework/application/views/blocks/settings/user_profile.php:29
+#: ../framework/application/views/widgets/header/header.php:97
+msgid "Repeat password"
+msgstr ""
+
+#: ../framework/application/views/blocks/auth/registration.php:17
+msgid "REGISTER"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/recent_cars.php:4
+msgid "<strong>Similar</strong> offers"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:5
+msgid "Offer ID"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:6
+msgid "The offer had"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:10
+msgid "Archived"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:14
+msgid "Featured"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:42
+msgid "* Price negotiable"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:53
+msgid "Fabrication"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:105
+msgid "Interested in this vehicle?"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:107
+msgid "add an offer"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:111
+msgid "Full name"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:119
+msgid "Offer details"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:133
+msgid "<strong>Vehicle</strong> information"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:150
+msgid "<strong>More</strong> info"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:157
+#: ../framework/application/views/blocks/dealer/right_side.php:13
+msgid "<strong>Contact</strong> details"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:185
+msgid "Contact seller"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:200
+#: ../framework/application/views/blocks/vehicles/list.php:60
+msgid "View"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:202
+msgid "page"
+msgstr ""
+
+#: ../framework/application/views/blocks/car/view.php:243
+msgid "Edit vehicle"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:8
+msgid "All cars"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:9
+msgid "new cars"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:10
+msgid "used cars"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:13
+msgid "results"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:23
+msgid "<strong>Search</strong> auto"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:45
+#: ../framework/application/views/blocks/vehicles/add.php:57
+msgid "Model:"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:56
+#: ../framework/application/views/blocks/vehicles/add.php:93
+msgid "Year:"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:74
+#: ../framework/application/views/blocks/vehicles/add.php:113
+msgid "Price:"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:231
+msgid "Sort by:"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:237
+msgid "Publish date:"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/filters.php:255
+msgid "View on page:"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/grid.php:19
+#: ../framework/application/views/blocks/catalog/list.php:26
+#: ../framework/application/views/blocks/dealer/info.php:68
+msgid "Body"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/grid.php:21
+msgid "New"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/list.php:14
+#: ../framework/application/views/blocks/dealer/info.php:56
+#: ../framework/application/views/blocks/vehicles/list.php:93
+msgid "Location:"
+msgstr ""
+
+#: ../framework/application/views/blocks/catalog/list.php:37
+#: ../framework/application/views/blocks/dealer/info.php:72
+msgid "View details"
+msgstr ""
+
+#: ../framework/application/views/blocks/dealer/right_side.php:2
+msgid "<strong>About</strong> us"
+msgstr ""
+
+#: ../framework/application/views/blocks/dealer/right_side.php:33
+msgid "<strong>Contact</strong> Affiliates"
+msgstr ""
+
+#: ../framework/application/views/blocks/dealer/right_side.php:55
+msgid "<strong>Schedule</strong> affiliates"
+msgstr ""
+
+#: ../framework/application/views/blocks/dealer/right_side.php:95
+msgid "<strong>Schedule</strong>"
+msgstr ""
+
+#: ../framework/application/views/blocks/errors/underconstruction.php:11
+msgid "Days"
+msgstr ""
+
+#: ../framework/application/views/blocks/errors/underconstruction.php:15
+msgid "Hours"
+msgstr ""
+
+#: ../framework/application/views/blocks/errors/underconstruction.php:19
+msgid "Minutes"
+msgstr ""
+
+#: ../framework/application/views/blocks/errors/underconstruction.php:23
+msgid "Seconds"
+msgstr ""
+
+#: ../framework/application/views/blocks/general/navigation.php:3
+msgid "<strong>Account</strong> menu"
+msgstr ""
+
+#: ../framework/application/views/blocks/general/navigation.php:26
+msgid "Comment"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/denied.php:3
+msgid "Access denied"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/denied.php:4
+msgid "You don't have sufficient permissions to access this page."
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/prepare.php:3
+msgid "Payment System (BETA)"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/prepare.php:7
+#, php-format
+msgid "You're going to promote %s with paid service."
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/prepare.php:11
+msgid "Select Plan"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/prepare.php:12
+msgid "Please specify your plan"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/prepare.php:42
+#: ../framework/application/views/blocks/payments/sample.php:3
+msgid "Payment Method"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/prepare.php:43
+msgid "Please specify payment method"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/prepare.php:69
+msgid "Order now"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/sample.php:4
+msgid "Please specify payment method."
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/success.php:3
+#: ../framework/application/views/blocks/payments/paypal/success.php:3
+msgid "Payment Completed"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/success.php:5
+#: ../framework/application/views/blocks/payments/paypal/pending.php:4
+#: ../framework/application/views/blocks/payments/paypal/success.php:5
+msgid "Your Transaction ID is "
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/success.php:8
+#: ../framework/application/views/blocks/payments/paypal/success.php:9
+msgid "Your product will be sent to you very soon!"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/paypal/error.php:3
+msgid "Error occured"
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/paypal/pending.php:3
+msgid "Transaction Complete, but payment is still pending "
+msgstr ""
+
+#: ../framework/application/views/blocks/payments/paypal/pending.php:6
+msgid ""
+"You need to manually authorize this payment in your <a target=\"_new\" href="
+"\"http://www.paypal.com\">Paypal Account</a>"
+msgstr ""
+
+#: ../framework/application/views/blocks/post/single.php:31
+msgid "Continue reading"
+msgstr ""
+
+#: ../framework/application/views/blocks/post/single.php:32
+msgid "Edit this post"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:4
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:16
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:88
+msgid "Affiliates name:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:8
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:20
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:92
+msgid "Affiliates e-mail:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:12
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:24
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:96
+msgid "Affiliates region:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:21
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:33
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:105
+msgid "Affiliates phone 1:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:25
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:37
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:109
+msgid "Affiliates adress:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:29
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:41
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:113
+msgid "Affiliates phone 2:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:34
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:46
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:118
+msgid "Schedule Monday:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:38
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:50
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:122
+msgid "Schedule Tuesday:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:42
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:54
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:126
+msgid "Schedule Wednesday:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:46
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:58
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:130
+msgid "Schedule Thursday:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:50
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:62
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:134
+msgid "Schedule Friday:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:54
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:66
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:138
+msgid "Schedule Saturday:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:58
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:70
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:142
+msgid "Schedule Sunday:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:62
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:74
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:146
+#: ../framework/application/views/blocks/settings/dealer_profile.php:89
+#: ../framework/application/views/blocks/settings/user_profile.php:87
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:63
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:75
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:147
+msgid "SET AS PRIMARY"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliate_item.php:64
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:76
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:148
+msgid "DELETE ITEM"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:8
+msgid "Add affiliate"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:9
+msgid "<strong>Dealer</strong> affiliates"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_affiliates.php:11
+msgid "Affiliate "
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:16
+#: ../framework/application/views/blocks/settings/user_profile.php:16
+msgid "You really want to delete logo?"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:17
+#: ../framework/application/views/blocks/settings/user_profile.php:17
+msgid "Change password"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:21
+#: ../framework/application/views/blocks/settings/user_profile.php:21
+msgid "Old password"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:36
+#: ../framework/application/views/blocks/settings/user_profile.php:36
+msgid "<strong>Profile</strong>"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:44
+msgid "upload a logo"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:51
+msgid "Dealer name:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:55
+#: ../framework/application/views/blocks/settings/user_profile.php:55
+msgid "E-mail:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:59
+#: ../framework/application/views/blocks/settings/user_profile.php:67
+msgid ">Region:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:71
+msgid "Dealer about:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:75
+msgid "Dealer per page:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:86
+msgid "Dealer layout #1"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:87
+msgid "Dealer layout #2"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/dealer_profile.php:90
+#: ../framework/application/views/blocks/settings/user_profile.php:88
+msgid "CHANGE PASSWORD"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/transactions.php:7
+msgid "Item ID"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/transactions.php:8
+msgid "Amount"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/transactions.php:9
+msgid "ACK"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/transactions.php:10
+msgid "Created"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/transactions.php:11
+msgid "Finished"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/transactions.php:12
+msgid "Service"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/transactions.php:13
+msgid "Message"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/user_profile.php:44
+msgid "upload a photo"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/user_profile.php:59
+msgid "Phone 1:"
+msgstr ""
+
+#: ../framework/application/views/blocks/settings/user_profile.php:63
+msgid "Phone 2:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:19
+msgid "<strong>Add</strong> Car"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:22
+msgid "<strong>Edit</strong> Car"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:26
+msgid "step 1. announcement"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:27
+msgid "step 2. specifications"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:28
+msgid "step 3. item location"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:29
+msgid "step 4 photo"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:32
+msgid "<strong>Vehicle</strong> data"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:35
+msgid "Transport Type:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:37
+#: ../framework/application/views/blocks/vehicles/add.php:46
+#: ../framework/application/views/blocks/vehicles/add.php:86
+#: ../framework/application/views/blocks/vehicles/add.php:95
+#: ../framework/application/views/blocks/vehicles/add.php:127
+#: ../framework/application/views/blocks/vehicles/add.php:188
+#: ../framework/application/views/blocks/vehicles/add.php:197
+#: ../framework/application/views/blocks/vehicles/add.php:206
+#: ../framework/application/views/blocks/vehicles/add.php:221
+#: ../framework/application/views/blocks/vehicles/add.php:230
+#: ../framework/application/views/blocks/vehicles/add.php:241
+#: ../framework/application/views/blocks/vehicles/add.php:294
+msgid "Select"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:65
+msgid "Version:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:77
+msgid "Custom model:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:78
+msgid "custom model value"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:84
+msgid "Body Type:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:102
+msgid "Mileage:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:107
+msgid "VIN / chassis number:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:117
+msgid "Currency:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:125
+msgid "Technical condition:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:136
+#: ../framework/application/views/blocks/vehicles/add.php:329
+msgid "Affiliate:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:138
+#: ../framework/application/views/blocks/vehicles/add.php:331
+msgid "Default affiliate"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:150
+msgid "Description:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:162
+msgid "Price Negotiable"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:168
+#: ../framework/application/views/blocks/vehicles/add.php:174
+msgid "Can be exchanged for real estate"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:179
+#: ../framework/application/views/blocks/vehicles/add.php:285
+#: ../framework/application/views/blocks/vehicles/add.php:347
+msgid "Next"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:183
+msgid "<strong>Technical</strong> Specifications"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:204
+msgid "Number of doors:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:215
+msgid "Number of seats:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:239
+msgid "Engine:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:250
+msgid "Engine power:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:252
+msgid "kW"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:255
+msgid "Category:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:284
+#: ../framework/application/views/blocks/vehicles/add.php:346
+#: ../framework/application/views/blocks/vehicles/add.php:390
+msgid "Back"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:289
+msgid "<strong>Item</strong> location"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:313
+msgid "City/Town:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:318
+msgid "Zip Code:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:326
+msgid "and/or"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:351
+msgid "<strong>Vehicle</strong> photos"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:384
+msgid "upload photo"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:392
+#: ../framework/application/views/blocks/vehicles/list.php:11
+msgid "Add"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/add.php:394
+msgid "Save"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:5
+msgid "<strong>My</strong> cars"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:7
+msgid "<strong>My</strong> cars archived"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:9
+msgid "Public ads on the site"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:13
+msgid "Found:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:13
+#: ../framework/application/views/blocks/vehicles/list.php:15
+msgid "cars"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:15
+msgid "Publish Limit:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:15
+msgid "Unlimite"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:21
+msgid "apply"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:23
+msgid "Select action"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:25
+#: ../framework/application/views/blocks/vehicles/list.php:55
+msgid "Republish"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:26
+msgid "Remove the archive"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:28
+#: ../framework/application/views/blocks/vehicles/list.php:57
+msgid "Publish"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:31
+msgid "Promote to featured vehicles"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:37
+msgid "Apply to the marked:"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:38
+msgid "Select all cars on the page"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:69
+msgid "Archive"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:97
+msgid "views"
+msgstr ""
+
+#: ../framework/application/views/blocks/vehicles/list.php:100
+msgid "Used car"
+msgstr ""
+
+#: ../framework/application/views/widgets/header/admin_header.php:19
+msgid "AutoDealer"
+msgstr ""
+
+#: ../framework/application/views/widgets/header/admin_header.php:19
+msgid "by"
+msgstr ""
+
+#: ../framework/application/views/widgets/header/header.php:68
+msgid "Register"
+msgstr ""
+
+#: ../framework/application/views/widgets/header/header.php:81
+#: ../framework/application/views/widgets/header/header.php:98
+msgid "REGISTRATION"
+msgstr ""
+
+#: ../framework/application/views/widgets/header/header.php:109
+msgid "Logout"
+msgstr ""
+
+#: ../framework/application/views/widgets/header/header.php:117
+msgid "+ Add auto"
+msgstr ""
+
+#: ../framework/application/views/widgets/header/header.php:135
+msgid "Navigation"
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:33
+msgid "Car's Catalog | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:38
+msgid "Payments | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:79
+msgid "Recovery password | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:82
+msgid "Sign in | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:85
+msgid "Regisration | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:88
+msgid "Confirm Email | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:100
+msgid "Site under construction | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:104
+msgid "Page Not Found | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:113
+msgid "My cars | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:116
+msgid "My cars archived | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:119
+msgid "Edit item | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:122
+msgid "Add items | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:125
+msgid "My vehicles | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:135
+#: ../framework/application/widgets/header_widget.php:141
+msgid "Profile | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:138
+msgid "Dealer affiliates | "
+msgstr ""
+
+#: ../framework/application/widgets/header_widget.php:163
+msgid "Dealer | "
+msgstr ""
+
+#: ../framework/application/widgets/reference_widget.php:39
+msgid "All"
+msgstr ""
