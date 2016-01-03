@@ -64,7 +64,7 @@
 				<input type="text"  name="phone_2" class="text" value="<?php echo $user_info['phone_2']; ?>"/>
 			</div>
 			<div class="col1 last">
-				<label class="text"<?php echo __( '>Region:', AT_TEXTDOMAIN); ?></label>
+				<label class="text"<?php echo __( '>Region:', AT_TEXTDOMAIN); ?>></label>
 				<!-- <select name="region" id="region" class="text">
 					<option>Region</option>
 				</select> -->
