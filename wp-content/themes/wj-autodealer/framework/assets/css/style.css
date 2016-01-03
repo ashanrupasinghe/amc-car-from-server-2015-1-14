@@ -819,7 +819,7 @@ textarea.text{
 	margin: 0 auto;
 }
 .content{
-	width: 940px;
+	/* width: 940px; */ /* comented ashan 2016-01-03 */
 	margin: 0 auto;
 	padding: 15px 20px 0;
 }
@@ -2154,7 +2154,9 @@ body #content .widget ul.twitter_feed li a,
 	height: 425px;
 }
 .home_slider .slider .slide img{
-	width: 620px;
+	/* width: 940px; *//*ashan*/
+	width:100%;
+	height:auto;
 	/*height: 425px;*/
 	margin: 0 auto;
 	display: block;
@@ -5788,3 +5790,142 @@ label.error{
     margin: 0px auto;
     padding: 15px 20px 0px;
 } */
+ div .home-cat-search{
+	position: absolute !important;
+	z-index: 2;
+	margin-top: 34px;
+	margin-left: 50px;
+	opacity: 0.9;
+} 
+
+.acm-home-recent-list div.bx-wrapper{
+	/*max-width: 1182px !important;*/
+	max-width: 1306px !important;
+}
+.recent_carousel .slide{
+	width: 245px !important;
+}
+.recent_carousel .slide img{
+	width: 245px;
+}
+
+.news{
+	display: none;
+}
+div.home-cat-search div.wpb_wrapper{
+    border-style: solid;
+border-width: 5px;
+border-color: rgb(59, 76, 92);
+}
+
+/*
+.catalog_sidebar {
+    width: 327.25px;    
+}
+.main_catalog{
+width:941.75px;
+}
+.catalog_sidebar .search_auto{
+	width: 305.25px;
+}
+.catalog_sidebar .search_auto .select_box_1{
+    width: 304px;
+}
+.catalog_sidebar .search_auto .select_box_2 {
+    width: 304px;
+}
+#s2id_fabrication_from {
+    
+    width: 147px;
+}
+#s2id_fabrication_to{
+	width: 147px;
+}
+#mileage_from{
+	width: 125px;
+}
+#mileage_to{
+	width: 125px;
+}
+#price_from{width: 125px;}
+#price_to{width: 125px;}
+.catalog_sidebar .search_auto h3{
+	text-align: center;
+}
+.catalog_sidebar .search_auto .categories{
+	text-align: center;
+}
+.car_characteristics {
+    width: 589px;
+}
+.car_image_wrapper .big_image a img{
+	width: 680px;
+}
+.car_image_wrapper {
+	width: 680px;
+}
+.car_image_wrapper .big_image a{
+	width: 680px;
+}
+.car_image_wrapper .big_image a img.zoom{
+margin: -35px 0px 0px 55px;
+}
+*/
+/*
+.info_box {
+    
+    width: 1309px;
+}
+*/
+
+/*contact form*/
+.contact-home{
+    border: 1px solid #D1D5DC;
+    display: block;
+    vertical-align: top;
+    background: #FFF none repeat scroll 0% 0%;
+    border-radius: 4px;
+    width: 265px;
+    height: 28px;
+    margin: 0px;
+    padding: 1px 10px 0px;
+    line-height: 19px;
+    font-family: "PT Sans",sans-serif,Arial,sans-serif;
+    font-weight: 400;
+    color: #798FA1;
+    float: left;
+	
+}
+.contact-home-area{
+	height: 140px;
+}
+.home-contact-lable{
+font-size: 13px !important;
+display: block !important;
+line-height: 25px !important;
+padding: 0px 0px 3px !important;
+color: #293848 !important;
+font-family: "PT Sans",sans-serif,Arial,sans-serif !important;
+font-weight: bold !important;
+margin-left: 8px;
+}
+#wpcf7-f550-p485-o1{
+	margin-top: -18px;
+}
+.home-contact div div.textwidget{
+/*	border-style: solid;
+border-width: 5px;
+border-color: #3B4C5C;
+*/
+border: 1px solid #D9DDE3;
+background: #F8F8F8 none repeat scroll 0% 0%;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+#wpcf7-f550-p485-o1 form.wpcf7-form{
+	margin-bottom: 10px;
+}
+p.home-submit input.wpcf7-form-control{
+	margin-right: 15px;
+}
