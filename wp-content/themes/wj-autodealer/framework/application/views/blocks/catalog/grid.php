@@ -3,7 +3,7 @@
 <ul class="catalog_list">
 	<?php $i = 1; ?>
 	<?php foreach ($cars as $key => $car) { ?>
-	<li class="<?php if ( $i==3 ) {?>last<?php $i = 0; } ?> <?php if($car['owner_info']['is_dealer']) echo 'is_dealer'; ?>">
+	<li class="<?php if ( $i==4 ) {?>last<?php $i = 0; } ?> <?php if($car['owner_info']['is_dealer']) echo 'is_dealer'; ?>">
 		<a href="<?php echo get_permalink( $car['ID'] ); ?>">
 			<?php if ( count( $car['photo'] ) > 0 ) { ?>
 				<img src="<?php echo AT_Common::static_url( $car['photo']['photo_url'] . '213x164/' . $car['photo']['photo_name'] ); ?>"/>

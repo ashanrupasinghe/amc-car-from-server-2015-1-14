@@ -5790,7 +5790,8 @@ label.error{
     margin: 0px auto;
     padding: 15px 20px 0px;
 } */
- div .home-cat-search{
+@media screen and (min-width: 1280px) {
+     div .home-cat-search{
 	position: absolute !important;
 	z-index: 2;
 	margin-top: 34px;
@@ -5809,13 +5810,16 @@ label.error{
 	width: 245px;
 }
 
-.news{
-	display: none;
-}
+
 div.home-cat-search div.wpb_wrapper{
     border-style: solid;
 border-width: 5px;
 border-color: rgb(59, 76, 92);
+}
+}
+
+.news{
+	display: none;
 }
 
 /*
@@ -5928,4 +5932,141 @@ margin-bottom:10px;
 }
 p.home-submit input.wpcf7-form-control{
 	margin-right: 15px;
+}
+.bottom_footer,.top_footer {
+	width: 100%;
+}
+.top_footer .f_widget {
+    float: left;
+    width: 312px;
+    padding: 0px 20px 0px 0px;
+}
+.bottom_footer .f_widget {
+    float: left;
+    width: 312px;
+    padding: 0px 20px 0px 0px;
+}
+.copyright_container {
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 0px auto;
+    margin-left: 20px;
+}
+.catalog_sidebar {
+    width: 327px;
+    
+}
+.catalog_sidebar .search_auto {
+    width: 305px;
+ 
+}
+.main_catalog {
+    
+    width: 941px;
+    
+}
+.catalog_sidebar .search_auto .select_box_1 {
+    width: 305px;
+}
+.catalog_sidebar .search_auto .select_box_2 {
+    width: 305px;
+}
+.catalog_sidebar .search_auto .select_box_2 .custom-select {
+    float: left;
+    width: 147px;
+}
+.search_auto .select_box_2 .txb, .catalog_sidebar .txb {
+	width: 126px;
+}
+.contact-f-bar{
+	margin-top: -50px;
+}
+/*  
+@media screen and (min-width: 1280px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+*/
+form.vehicle-filter div.search_auto div.categories{
+display: none;
+}
+
+div.catalog_sidebar div.search_auto div.categories{
+	display: none;
+}
+/*2015-01-07- catalog guird system*/
+.catalog_table li .catalog_desc {
+    
+    width: 752px;
+    
+}
+
+/*---single car page*/
+.car_characteristics {
+    width: 650px;
+}
+.car_image_wrapper {    
+    width: 619px;
+}
+.car_image_wrapper .big_image {
+    width: 619px;
+    
+}
+.car_image_wrapper .big_image a {
+    
+    width: 619px;
+}
+.car_image_wrapper .big_image a img {
+    width: 619px;
+    
+}
+
+.features_table .line {  
+    padding: 16px 15px 16px;
+}
+/**/
+.info_box{
+	width:1309px;
+}
+.car_info .info_left {
+    float: left;
+    width: 47%;
+    padding: 0px 40px 0px 0px;
+}
+.car_info .info_right {
+    float: left;
+    width: 49%;
+    padding: 0px;
+}
+/* .car_contacts .left {
+    float: left;
+    width: 47%;
+    padding-right: 40px;
+}
+.car_contacts .right {
+    float: left;
+    width: 49%;
+    padding-right: 40px;
+} */
+/*dealer info page*/
+sidebar {
+    float: left;
+    width: 327px;
+    padding-bottom: 20px;
+}
+.blog.layout_content_right {
+    width: 942px;
+    float: left;
+    padding: 0px 40px 0px 0px;
+}
+.dealer_catalog li .catalog_desc {
+    padding: 0px;
+    width: 753px;
+    float: left;
+}
+.sidebar {
+    float: left;
+    width: 327px;
+    padding-bottom: 20px;
 }
